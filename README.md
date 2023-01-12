@@ -15,4 +15,4 @@ Therefore if N = 100 the sum is 2318
 - 1 < N < $10^9$
 
 ### Explaination
-$$\left( \sum_{k=1}^n n(n +1)\2 \right)^2$$
+$$\left( \sum_{k=1}^n n(n +1)\ frac{2} \right)^2$$
