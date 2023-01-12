@@ -15,5 +15,5 @@ Therefore if N = 100 the sum is 2318
 - 1 < N < $10^9$
 
 ### Explaination
-Sum of all numbers between 1 and n can be denoted as:
+<div align="center">Sum of all numbers between 1 and n can be denoted as:</div>
 $$\left( \sum_{k=1}^n \frac{n(n + 1}{n} \right)^2$$
