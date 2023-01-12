@@ -15,4 +15,5 @@ Therefore if N = 100 the sum is 2318
 - 1 < N < $10^9$
 
 ### Explaination
-$$\left( \sum_{k=1}^n \frac{n!}{k!(n-k)!} \right)^2$$
+Sum of all numbers between 1 and n can be denoted as:
+$$\left( \sum_{k=1}^n \frac{n(n + 1}{n} \right)^2$$
