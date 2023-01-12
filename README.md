@@ -13,3 +13,5 @@ Therefore if N = 100 the sum is 2318
 ### Contraints
 - 1 < T < $10^5$
 - 1 < N < $10^9$
+
+### Explaination
