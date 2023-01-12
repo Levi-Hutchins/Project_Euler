@@ -5,7 +5,7 @@ if we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 Find the sum of all the multiples of 3 or 5 below N.
 
 ### Example Test Case
-*As Described above.\n
+*As Described above.<br>
 For N = 10, if we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6  and 9. The sum of these multiples is 23.
 Therefore if N = 100 the sum is 2318
 
