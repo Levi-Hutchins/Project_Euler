@@ -15,4 +15,4 @@ Therefore if N = 100 the sum is 2318
 - 1 < N < $10^9$
 
 ### Explaination
-$\left( \sum_{k=1}^n\right$
+$\left( \sum_{k=1}^n \right)$
