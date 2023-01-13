@@ -17,5 +17,6 @@ Therefore if N = 100 the sum is 2318
 ### Explaination
 Sum of all numbers between 1 and n can be denoted as:
 $$\left( \sum_{k=1}^n \frac{n(n + 1}{n} \right)^2$$
+There are $\frac{n}{3}$
   
   
