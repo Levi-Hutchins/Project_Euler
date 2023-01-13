@@ -5,5 +5,9 @@
 
 The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context." <br>
 Cited from: https://projecteuler.net/
+<br>
+
+## Why am I attempting these problems?
+
 
 
