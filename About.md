@@ -8,6 +8,6 @@ Cited from: https://projecteuler.net/
 <br>
 
 ## Why am I attempting these problems?
-
+I discovered the Project Euler page on Hacker Rank and was immediately fascinated since I have a passion for programming and a genuine interest in mathematics. I completed the first problem and began on the second one within a couple of hours. After diving into what exactly project Euler was I thought it would it a good idea to showcase some of my solutions to the problems.
 
 
