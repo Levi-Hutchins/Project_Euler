@@ -16,9 +16,9 @@ Therefore if N = 100 the sum is 2318
 
 ### Explaination
 Sum of all numbers between 1 and n can be denoted as:
-$$\left( \sum_{k=1}^n \frac{n(n + 1}{n} \right)^2$$
+$$\left( \sum_{k=1}^n \frac{n(n + 1}{n} \right)$$
 There are $\frac{n}{3}$ between 1 and n that are divisible by 3. We can apply this model to 5 aswell. Therefore we can deduce that the sum of all multiples of any given integer can be represented as:
-3 x $$\left( \sum_{k=1}^n \frac{n}{3} \right)$$
+$$3\prod \left( \sum_{k=1}^n \frac{n}{3} \right)$$
 
   
   
