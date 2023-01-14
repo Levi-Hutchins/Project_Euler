@@ -21,4 +21,4 @@ There are $\frac{n}{3}$ between 1 and n that are divisible by 3. We can apply th
 $$3  \left( \sum_{k=1}^n \frac{n}{3} \right)$$
 
   
-  
+### Explaination on others coming soon..
